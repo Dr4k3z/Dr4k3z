@@ -9,7 +9,7 @@ I'm Matteo Campagnoli, a Mathematical Engineering student at Politecnico di Mila
 
 -[`Derivative Pricing Library`](https://github.com/Dr4k3z/options_cpp) Still a _work in progress_, I'm writing from scratch a `C++` library to price financial derivatives. Any contribution is more than welcomed.
 
-I enjoy writing in $\LaTeX$, using it primarily to take notes during class. I've decided to turn my [Partial Differential Equations](https://www.fubinitonelli.it/edp) notes into a book, which has just been pubblished with @[$Fubini\otimesTonelli$](fubinitonelli). 
+I enjoy writing in $\LaTeX$, using it primarily to take notes during class. I've decided to turn my [Partial Differential Equations](https://www.fubinitonelli.it/edp) notes into a book, which has just been pubblished with @fubinitonelli. 
 ## 🚀 **Skills**
 
 <ul>
