@@ -7,7 +7,7 @@ I'm Matteo Campagnoli, a Mathematical Engineering student at Politecnico di Mila
 
 -[`Occupational Data of Mathematical Engineers`](https://aim-mate.it/orientamento/statistiche-occupazionali) Gathering occupational data from Mathematical Engineering alumni through a survey run by the Association of Mathematical Engineers, we collected information about salary progression, employment satisfaction and career paths. 
 
--[`Derivative Pricing Library`](https://github.com/Dr4k3z/options_cpp) Still a _work in progress_, I'm writing from scratch a `C++` library to price financial derivatives. Any contribution is more than welcomed.
+-[`Additive Bachelier Model`](https://github.com/Dr4k3z/FE-7b) I implemented two additive models for option pricing, calibrating them on WTI futures. Both models allow for the asset prices to be negative, a rare situation that happened to oil markets during Covid. The code also implements a Monte Carlo scheme to price exotics products, which is a based on an inversion technique using the Fast Fourier Transform (FFT).
 
 I enjoy writing in $\LaTeX$, using it primarily to take notes during class. I've decided to turn my [Partial Differential Equations](https://www.fubinitonelli.it/edp) notes into a book, which has just been pubblished with @fubinitonelli. 
 ## 🚀 **Skills**
