@@ -5,9 +5,9 @@ I'm Matteo Campagnoli, a Mathematical Engineering student at Politecnico di Mila
 ## 📌 **Some projects I've worked on**
 -[`Star Radiation Analysis`](https://github.com/Dr4k3z/star_radiation_analysis#star-radiation-analysis) My team and I analyzed the radiation of approximately 240 stars, using several linear models to investigate the physical relationships between various stellar parameters. 
 
--[`Occupational Data of Mathematical Engineers`](https://aim-mate.it/orientamento/statistiche-occupazionali) Gathering occupational data from Mathematical Engineering alumni through a survey run by the Association of Mathematical Engineers, we collected information about salary progression, employment satisfaction and career paths. 
-
 -[`Additive Bachelier Model`](https://github.com/Dr4k3z/FE-7b) I implemented two additive models for option pricing, calibrating them on WTI futures. Both models allow for the asset prices to be negative, a rare situation that happened to oil markets during Covid. The code also implements a Monte Carlo scheme to price exotics products, which is a based on an inversion technique using the Fast Fourier Transform (FFT).
+
+-['Forecasting Realized Volatility'](https://github.com/Dr4k3z/realized-vol) I tackled the Optiver problem of forecasting realized volatility from orderbook data. I first tried fitting a Light Gradient-Boosting Machine on the dataset and later on tried to recover the temporal ordering of LOB snapshots using clustering techniques in the price-embeddings space.
 
 I enjoy writing in $\LaTeX$, using it primarily to take notes during class. I've decided to turn my [Partial Differential Equations](https://www.fubinitonelli.it/edp) notes into a book, which has just been pubblished with @fubinitonelli. 
 ## 🚀 **Skills**
